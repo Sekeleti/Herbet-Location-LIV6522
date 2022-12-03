@@ -1,0 +1,1 @@
+var json_point_1 = {"type":"FeatureCollection","name":"point_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Plot Numbe":"LIV/6522","Owner Name":"Herbet Mwinga","Location":"Lusaka Road"},"geometry":{"type":"Point","coordinates":[25.868640037585656,-17.795484229252544]}}]}
